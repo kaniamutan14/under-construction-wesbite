@@ -37,6 +37,6 @@ To bundle the project for deployment (e.g., GitHub Pages, Cloudflare Pages, Netl
 ```bash
 npm run build
 ```
-This will compile the optimized files into a `dist/` folder, which is ready to be uploaded to your hosting provider.
+This will compile the optimized files into a `dist/` folder, which is ready to be uploaded to your hosting provider depends on your hosting provider.
 
 
